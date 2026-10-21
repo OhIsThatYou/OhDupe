@@ -2,7 +2,7 @@
 
 A simple server-side item duplication mod for Minecraft Java Edition.
 
-> **Status:** Early Alpha — v0.0.1-alpha
+> **Status:** Early Alpha — v0.1.0-alpha
 
 ## Features
 
